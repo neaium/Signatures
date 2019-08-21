@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="dom4j-1.6.1">
+    <CLASSES>
+      <root url="jar://G:/印章子系统/lib/dom4j-1.6.1.jar!/" />
+      <root url="jar://G:/印章子系统/lib/cglib-2.2.2.jar!/" />
+      <root url="jar://G:/印章子系统/lib/fastjson-1.1.41.jar!/" />
+      <root url="jar://G:/印章子系统/lib/asm-3.3.1.jar!/" />
+      <root url="jar://G:/印章子系统/lib/iSignature_PDF_API_V6.0.0.540.jar!/" />
+      <root url="jar://G:/印章子系统/lib/jaxen-1.1-beta-6.jar!/" />
+      <root url="jar://G:/印章子系统/lib/kgbc-jdk15on-150.jar!/" />
+      <root url="jar://G:/印章子系统/lib/xmlsec-1.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
